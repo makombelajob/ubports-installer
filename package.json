@@ -70,7 +70,7 @@
     "systeminformation": "^4.27.11",
     "ubuntu-pastebin": "^1.0.1",
     "winston": "^3.3.3",
-    "yaml": "^2.0.0-1"
+    "yaml": "^2.3.1"
   },
   "arkit": {
     "$schema": "https://arkit.pro/schema.json",
